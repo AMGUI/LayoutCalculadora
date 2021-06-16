@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanhoText">120dp</dimen>
+    <dimen name="lagurabt">50dp</dimen>
+    <dimen name="alturabt">90dp</dimen>
+    <dimen name="padingGrupview">5dp</dimen>
+</resources>
